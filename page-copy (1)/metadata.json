@@ -1,0 +1,6 @@
+{
+  "name": "Leo Peptide Biotech Showcase",
+  "description": "Leo Peptide high-end bio-tech showcase featuring interactive formula configuration, specifications, and custom OEM packaging options.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
